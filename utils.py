@@ -1,5 +1,5 @@
 # coding: UTF-8
-import torch
+import oneflow as torch
 from tqdm import tqdm
 import time
 from datetime import timedelta

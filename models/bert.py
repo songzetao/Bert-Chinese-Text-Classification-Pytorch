@@ -1,6 +1,6 @@
 # coding: UTF-8
-import torch
-import torch.nn as nn
+import oneflow as pytorch
+import oneflow.nn as nn
 # from pytorch_pretrained_bert import BertModel, BertTokenizer
 from pytorch_pretrained import BertModel, BertTokenizer
 
